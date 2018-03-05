@@ -45,5 +45,4 @@ def play(board)
   end
 end
 
-puts "game over"
 
